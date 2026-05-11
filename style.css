@@ -5,8 +5,11 @@
 .challenge-1 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
-
+  display: flex;
+  .c-1-b2{
+    background-color: blue;
+  }
+  
 
 }
 
@@ -18,7 +21,7 @@
 .challenge-2 {
   background-color: grey;
   width: 100vw;
-  display: flex;
+  
   /* add code below*/
 
 
@@ -34,7 +37,7 @@
 .challenge-3 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
+  justify-content: center;
 
 
 }
